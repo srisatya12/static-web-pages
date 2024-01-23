@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-bg-container {
+    padding: 30px;
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 120vh;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #e6f6ff;
+}
+
+.text-container {
+    padding: 20px;
+}
+
+.card-image {
+    height: 38vh;
+    width: 38vw;
+}
+
+.home-heading {
+    font-size: 30px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.home-card-heading {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 26px;
+}
+
+.home-card-para {
+    font-family: "Bree Serif";
+}
+
+.home-author {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+}
+
+.home-books-image {
+    height: 150px;
+    width: 100px;
+    margin-bottom: 14px;
+}
+
+.home-books-heading1 {
+    padding-top: 10px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.home-books-heading2 {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.home-books-para {
+    color: #9aa5b1;
+}
+
+.home-books-text {
+    padding-left: 10px;
+}
+
+.abdul-book {
+    height: 55vh;
+    width: 48vw;
+}
+
+.home-bg-container1 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 120vh;
+    text-align: center;
+}
+
+.book-heading {
+    font-family: "Bree Serif";
+    padding-top: 10px;
+    font-size: 34px;
+    color: #ffffff;
+}
+
+.book-para {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+}
+
+.book-description {
+    margin: 2px;
+    font-size: 15px;
+    padding-left: 30px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.button {
+    text-align: center;
+}

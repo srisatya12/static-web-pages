@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Home {
+    background-color: #03174c;
+    height: 140vh;
+}
+
+.home-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 70vh;
+}
+
+.home-top {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding-top: 150px;
+}
+
+.home-heading {
+    font-size: 32px;
+}
+
+.home-para {
+    font-size: 14px;
+    padding: 0px 40px 0px 40px;
+}
+
+.home-last {
+    padding-top: 200px;
+    padding-left: 20px;
+}
+
+.home-card {
+    font-family: "Bree Serif";
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 38vh;
+    width: 88vw;
+    background-size: cover;
+}
+
+.home-last-heading {
+    font-size: 30px;
+    color: #ffe7bf;
+    text-align: center;
+    /* padding: 80px; */
+}
+
+.home-last-para {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    text-align: center;
+    font-family: 30px;
+}
+
+.home-div {
+    text-align: center;
+}
+
+.home-button {
+    font-family: "Bree Serif";
+    font-size: 13px;
+    color: #ffffff;
+    width: 100px;
+    height: 30px;
+    border-width: 0px;
+    background-color: #8e97fd;
+    border-radius: 15px;
+}
+
+.details-container {
+    padding: 20px;
+}
+
+.details-image {
+    height: 50vh;
+    width: 100vw;
+}
+
+.details {
+    font-family: "Bree Serif";
+    background-color: #03174c;
+}
+
+.details-heading {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.details-para {
+    color: #98a1bd;
+}
+
+.details-related {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.card-image {
+    margin-right: 10px;
+    height: 20vh;
+    width: 40vw;
+}
+
+.card-heading {
+    font-size: 18px;
+    color: #ffffff;
+}
